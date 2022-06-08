@@ -1,0 +1,6 @@
+.mainDiv{
+    display: grid;
+    max-width: 200px;
+    margin-left: 45%;
+    gap: 10px;
+}
